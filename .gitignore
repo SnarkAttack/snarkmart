@@ -1,0 +1,4 @@
+**/__pycache__
+db.sqlite3
+snarkmart/settings/dev.py
+snarkmart/settings/prod.py
